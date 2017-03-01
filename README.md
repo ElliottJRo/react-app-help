@@ -10,6 +10,9 @@ TODO
 * [Organizing Large React Apps](http://engineering.kapost.com/2016/01/organizing-large-react-applications/)
 * [Working with Redux](https://medium.com/@alexmngn/how-to-use-redux-on-highly-scalable-javascript-applications-4e4b8cb5ef38#.m5an2hn8m)
 
+## Styling
+* [React Native stylesheet cheatsheet](https://github.com/vhpoet/react-native-styling-cheat-sheet/blob/master/README.md)
+
 
 ## Testing
 * [Right way to test React Components](https://medium.freecodecamp.com/the-right-way-to-test-react-components-548a4736ab22#.19votxhea)
