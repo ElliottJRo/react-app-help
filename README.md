@@ -7,6 +7,7 @@ TODO
 
 ## Organization
 * [How to organize a large React App](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1#.cg5zfjlfk)
+* [Organizing Large React Apps](http://engineering.kapost.com/2016/01/organizing-large-react-applications/)
 * [Working with Redux](https://medium.com/@alexmngn/how-to-use-redux-on-highly-scalable-javascript-applications-4e4b8cb5ef38#.m5an2hn8m)
 
 
